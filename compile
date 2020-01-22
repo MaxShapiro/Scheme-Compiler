@@ -1,0 +1,2 @@
+
+rm -f -- foo.s && rm -f foo.o && rm -f foo && make -f ./Makefile foo && ./foo
